@@ -1,0 +1,6 @@
+{
+  "MAIN_THREAD_ADDR": "tcp://localhost:5555",
+  "WORKER_START_PORT": 5556,
+  "OUTPUT_DIR": "./",
+  "KV_STORE_ADDR": "localhost:6000"
+}

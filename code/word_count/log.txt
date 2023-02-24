@@ -1,0 +1,61 @@
+mapper 0 RUNNING
+map number: 0
+mapper 1 RUNNING
+map number: 1
+waiting for 2 mappers to return
+mapper 1 finished
+Received: the,deciphering,of,what,it,tells,has,been,a,work,arduous,exhausting,and,prolonged,
+mapper 0 finished
+Received: the,discovery,of,the,existence,of,the,Bi-literal,Cipher,of,Francis,Bacon,found,embodied,in,his,work,and,
+ALL MAPPERS RETURNED!
+ALL KEYS: {"exhausting": true, "his": true, "of": true, "in": true, "what": true, "tells": true, "work": true, "Cipher": true, "embodied": true, "deciphering": true, "arduous": true, "discovery": true, "found": true, "prolonged": true, "been": true, "Bi-literal": true, "has": true, "Bacon": true, "and": true, "the": true, "a": true, "Francis": true, "it": true, "existence": true}
+reducer returning
+waiting for 24 reducers to return
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+Received: KEY: his, VALUE: 1
+reducer returning
+reducer returning
+Received: KEY: exhausting, VALUE: 1
+reducer returning
+reducer returning
+Received: KEY: of, VALUE: 4
+reducer returning
+Received: KEY: in, VALUE: 1
+Received: KEY: tells, VALUE: 1
+Received: KEY: what, VALUE: 1
+Received: KEY: work, VALUE: 2
+Received: KEY: Cipher, VALUE: 1
+Received: KEY: embodied, VALUE: 1
+Received: KEY: deciphering, VALUE: 1
+Received: KEY: arduous, VALUE: 1
+Received: KEY: discovery, VALUE: 1
+Received: KEY: found, VALUE: 1
+Received: KEY: prolonged, VALUE: 1
+Received: KEY: Bi-literal, VALUE: 1
+Received: KEY: been, VALUE: 1
+Received: KEY: has, VALUE: 1
+Received: KEY: Bacon, VALUE: 1
+Received: KEY: the, VALUE: 4
+Received: KEY: and, VALUE: 2
+Received: KEY: a, VALUE: 1
+Received: KEY: it, VALUE: 1
+Received: KEY: Francis, VALUE: 1
+Received: KEY: existence, VALUE: 1
+ALL REDUCERS RETURNED!

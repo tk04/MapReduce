@@ -1,0 +1,8 @@
+
+[workspace]
+
+members = [
+    "map_reduce",
+    "word_count",
+    "inverted_index",
+]

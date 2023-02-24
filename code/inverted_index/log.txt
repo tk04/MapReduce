@@ -1,0 +1,62 @@
+mapper 0 RUNNING
+mapper 1 RUNNING
+mapper 2 RUNNING
+waiting for 3 mappers to return
+mapper 0 finished
+Received: the,discovery,of,existence,Bi-literal,Cipher,Francis,Bacon,
+mapper 1 finished
+Received: found,embodied,in,his,work,and,the,deciphering,of,what,it,tells,
+mapper 2 finished
+Received: has,been,a,work,arduous,exhausting,and,prolonged,
+ALL MAPPERS RETURNED!
+ALL KEYS: {"of": true, "Cipher": true, "tells": true, "the": true, "found": true, "a": true, "been": true, "and": true, "has": true, "exhausting": true, "his": true, "Bacon": true, "embodied": true, "discovery": true, "Bi-literal": true, "arduous": true, "deciphering": true, "in": true, "prolonged": true, "work": true, "what": true, "existence": true, "it": true, "Francis": true}
+reducer returning
+reducer returning
+reducer returning
+waiting for 24 reducers to return
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+Received: KEY: of, VALUE: 0, 1, 
+reducer returning
+Received: KEY: Cipher, VALUE: 0, 
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+reducer returning
+Received: KEY: the, VALUE: 0, 1, 
+Received: KEY: tells, VALUE: 1, 
+Received: KEY: a, VALUE: 2, 
+Received: KEY: found, VALUE: 1, 
+Received: KEY: been, VALUE: 2, 
+Received: KEY: and, VALUE: 1, 2, 
+Received: KEY: has, VALUE: 2, 
+Received: KEY: his, VALUE: 1, 
+Received: KEY: exhausting, VALUE: 2, 
+Received: KEY: Bacon, VALUE: 0, 
+Received: KEY: embodied, VALUE: 1, 
+Received: KEY: discovery, VALUE: 0, 
+Received: KEY: Bi-literal, VALUE: 0, 
+Received: KEY: arduous, VALUE: 2, 
+Received: KEY: deciphering, VALUE: 1, 
+Received: KEY: in, VALUE: 1, 
+Received: KEY: prolonged, VALUE: 2, 
+Received: KEY: work, VALUE: 1, 2, 
+Received: KEY: existence, VALUE: 0, 
+Received: KEY: what, VALUE: 1, 
+Received: KEY: it, VALUE: 1, 
+Received: KEY: Francis, VALUE: 0, 
+ALL REDUCERS RETURNED!
